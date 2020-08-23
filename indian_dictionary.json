@@ -1,1 +1,84 @@
-{"indian":[{"field1":"English⇄Bengali","field2":"11.23","field3":"india0.dat","field4":"https://dl.dropboxusercontent.com/s/u7prnob662979x6/bengali.db?dl=0","field5":"11226112","field6":"bengali"},{"field1":"English⇄English","field2":"13.76","field3":"india1.dat","field4":"https://dl.dropboxusercontent.com/s/d3cpv4xmte7vcol/english.db?dl=0","field5":"13755392","field6":"english"},{"field1":"English⇄Gujarati","field2":"4.21","field3":"india2.dat","field4":"https://dl.dropboxusercontent.com/s/ktj01fgwscc9vyq/gujarati.db?dl=0","field5":"4206592","field6":"gujarati"},{"field1":"English⇄Kannada","field2":"11.08","field3":"india4.dat","field4":"https://dl.dropboxusercontent.com/s/nw8j5a1zm8zh1dv/kannada.db?dl=0","field5":"11083776","field6":"kannada"},{"field1":"English⇄Malayalam","field2":"4.20","field3":"india10.dat","field4":"https://dl.dropboxusercontent.com/s/hivi257oy8mrn5v/malyaum.db?dl=0","field5":"4206592","field6":"malyaum"},{"field1":"English⇄Marathi","field2":"4.43","field3":"india5.dat","field4":"https://dl.dropboxusercontent.com/s/c3jjcnbhc9gpq6i/marathi.db?dl=0","field5":"4428800","field6":"marathi"},{"field1":"English⇄Punjabi","field2":"8.04","field3":"india9.dat","field4":"https://dl.dropboxusercontent.com/s/nvoq6az2lmwavnt/punjabi.db?dl=0","field5":"8048640","field6":"punjabi"},{"field1":"English⇄Tamil","field2":"4.69","field3":"india6.dat","field4":"https://dl.dropboxusercontent.com/s/09iqa5aqbfiu6zz/tamil.db?dl=0","field5":"4689920","field6":"tamil"},{"field1":"English⇄Telugu","field2":"10.28","field3":"india7.dat","field4":"https://dl.dropboxusercontent.com/s/yraqhgq2wbnvby1/telugu.db?dl=0","field5":"10281984","field6":"telugu"},{"field1":"English⇄Urdu","field2":"8.75","field3":"india8.dat","field4":"https://dl.dropboxusercontent.com/s/t56krwdmqqs2t00/urdu.db?dl=0","field5":"8749056","field6":"urdu"}]}
+{
+  "indian": [
+    {
+      "field1": "English⇄Bengali",
+      "field2": "11.23",
+      "field3": "india0.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/u7prnob662979x6/bengali.db?dl=0",
+      "field5": "11226112",
+      "field6": "bengali"
+    },
+    {
+      "field1": "English⇄English",
+      "field2": "13.76",
+      "field3": "india1.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/d3cpv4xmte7vcol/english.db?dl=0",
+      "field5": "13755392",
+      "field6": "english"
+    },
+    {
+      "field1": "English⇄Gujarati",
+      "field2": "4.21",
+      "field3": "india2.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/ktj01fgwscc9vyq/gujarati.db?dl=0",
+      "field5": "4206592",
+      "field6": "gujarati"
+    },
+    {
+      "field1": "English⇄Kannada",
+      "field2": "11.08",
+      "field3": "india4.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/nw8j5a1zm8zh1dv/kannada.db?dl=0",
+      "field5": "11083776",
+      "field6": "kannada"
+    },
+    {
+      "field1": "English⇄Malayalam",
+      "field2": "4.20",
+      "field3": "india10.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/hivi257oy8mrn5v/malyaum.db?dl=0",
+      "field5": "4206592",
+      "field6": "malyaum"
+    },
+    {
+      "field1": "English⇄Marathi",
+      "field2": "4.43",
+      "field3": "india5.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/c3jjcnbhc9gpq6i/marathi.db?dl=0",
+      "field5": "4428800",
+      "field6": "marathi"
+    },
+    {
+      "field1": "English⇄Punjabi",
+      "field2": "8.04",
+      "field3": "india9.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/nvoq6az2lmwavnt/punjabi.db?dl=0",
+      "field5": "8048640",
+      "field6": "punjabi"
+    },
+    {
+      "field1": "English⇄Tamil",
+      "field2": "4.69",
+      "field3": "india6.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/09iqa5aqbfiu6zz/tamil.db?dl=0",
+      "field5": "4689920",
+      "field6": "tamil"
+    },
+    {
+      "field1": "English⇄Telugu",
+      "field2": "10.28",
+      "field3": "india7.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/yraqhgq2wbnvby1/telugu.db?dl=0",
+      "field5": "10281984",
+      "field6": "telugu"
+    },
+    {
+      "field1": "English⇄Urdu",
+      "field2": "8.75",
+      "field3": "india8.dat",
+      "field4": "https://dl.dropboxusercontent.com/s/t56krwdmqqs2t00/urdu.db?dl=0",
+      "field5": "8749056",
+      "field6": "urdu"
+    }
+  ]
+}
