@@ -1,0 +1,46 @@
+{
+  "download": [
+    {
+      "title": "Dictionary Offline Packages",
+      "isExpanded": false,
+      "data": [
+        {
+          "name": "Marathi Offline Dictionary",
+          "link": "marathi.db",
+          "sizeInMb": "26.06",
+          "isNew": false
+        }
+      ]
+    },
+    {
+      "title": "Other",
+      "isExpanded": false,
+      "data": [
+        {
+          "name": "Grammar Test Series",
+          "link": "grammar.db",
+          "sizeInMb": "06.50",
+          "isNew": true
+        }
+      ]
+    }
+  ],
+  "apps": [
+    {
+      "image": "img_url",
+      "name": "Money Manager",
+      "packageName": "com.progresist.indian",
+      "message": "",
+      "isLive": false
+    }
+  ],
+  "version": {
+    "versionCode": 5,
+    "message": "Test series added"
+  },
+  "displayMessage": {
+    "version": 1,
+    "msg": "Due to policy voilation, We have change the offline database, please update your offline package",
+    "date": "2021-02-26"
+  }
+}
